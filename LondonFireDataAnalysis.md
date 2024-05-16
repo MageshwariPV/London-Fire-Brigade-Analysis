@@ -1,6 +1,5 @@
 Analysis for London Fire Brigade
 ================
-Ruthuparan Prasad
 
 ### Data Dictionary
 
